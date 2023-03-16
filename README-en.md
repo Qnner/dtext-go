@@ -1,4 +1,4 @@
-[中文版本](https://github.com/Qnner/dtext-go/blob/master/README.md)
+[中文版本](https://github.com/Qnner/dtext-go/blob/main/README.md)
 
 # dtext
 dtext is an online text synchronization software, and dtext-go is a version written in the Go language. You don't need to rely on chat software like WeChat or Telegram. Using any device that can access the internet, you can synchronize text information.
@@ -27,5 +27,5 @@ go build -o dtext
 - [gorm](https://github.com/go-gorm/gorm) Excellent ORM frameworks in Golang
 
 ## LICENSE
-This project was created by the author to learn Golang and follows the [MIT](https://github.com/Qnner/dtext-go/blob/master/LICENSE) license.
+This project was created by the author to learn Golang and follows the [MIT](https://github.com/Qnner/dtext-go/blob/main/LICENSE) license.
 

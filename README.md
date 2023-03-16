@@ -1,4 +1,4 @@
-[English Version](https://github.com/Qnner/dtext-go/blob/master/README-en.md)
+[English Version](https://github.com/Qnner/dtext-go/blob/main/README-en.md)
 
 # dtext
 dtext 是一款在线文本同步软件，dtext-go是由go语言编写的版本；您**无需借助微信、QQ等聊天软件**，使用任何可以上网的设备，即可同步文本信息。

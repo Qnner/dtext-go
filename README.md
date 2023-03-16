@@ -31,4 +31,4 @@ go build -o dtext
 - [gorm](https://github.com/go-gorm/gorm) Golang中优秀的ORM框架
 
 ## 许可证
-本项目为作者学习Golang创作，项目遵从 [MIT](https://github.com/Qnner/dtext-go/blob/master/LICENSE) 协议
+本项目为作者学习Golang创作，项目遵从 [MIT](https://github.com/Qnner/dtext-go/blob/main/LICENSE) 协议

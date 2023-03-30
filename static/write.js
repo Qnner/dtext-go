@@ -30,7 +30,7 @@ function uploadContent() {
     }
 }
 
-var textarea = document.getElementById('content');
+var textarea = document.getElementsByClassName('content')[0];
 var content = textarea.value;
 textarea.onkeydown =  () => {
   if(event.code !== "Tab") return true;

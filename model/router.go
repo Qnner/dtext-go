@@ -15,6 +15,11 @@ type msg struct {
 }
 
 func InitServer(temp embed.FS, static embed.FS) *gin.Engine {
+
+	// release mode
+	// gin.SetMode(gin.ReleaseMode)
+
+
 	Server = gin.Default()
 
 	Server.Any("/static/*filepath", func(c *gin.Context) {

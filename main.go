@@ -17,6 +17,8 @@ func main() {
 	// 读取默认仅读的页面，并写入sqlite
 	model.WriteDefaultPages(utils.RelativePath("defaultPages.json"))
 	server := model.InitServer(temp, static)
+	
+	utils.Log.Info("server run!")
 
 	// 默认端口 5252
 	server.Run(":5252")
